@@ -1,3 +1,3 @@
 # CC_Practice_Assignments
 
-In this repository i have been practicing all the problems i used to practice to level up my skills and achieve
+In this repository i have been practicing all the problems i used to practice to level up my skills and achieve the better knowledge on the development of coding skills.
